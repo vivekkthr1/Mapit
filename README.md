@@ -1,2 +1,2 @@
 # Mapit
-it simply maps the address in your clipboard.
+it simply maps the address which is in your clipboard.
